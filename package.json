@@ -1,0 +1,20 @@
+{
+  "name": "test-publish-gitlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwa130saucer/test-publish-gitlab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xwa130saucer/test-publish-gitlab/issues"
+  },
+  "homepage": "https://github.com/xwa130saucer/test-publish-gitlab#readme"
+}
