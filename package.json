@@ -1,5 +1,5 @@
 {
-  "name": "screener-runner",
+  "name": "test-publish-gitlab",
   "version": "0.10.43",
   "description": "Test Runner for Screener.io Visual Testing service",
   "repository": {
