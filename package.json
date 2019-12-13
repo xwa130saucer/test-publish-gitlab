@@ -1,6 +1,6 @@
 {
   "name": "test-publish-gitlab",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Test Runner for Screener.io Visual Testing service",
   "repository": {
     "type": "git",
