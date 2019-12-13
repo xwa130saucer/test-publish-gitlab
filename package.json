@@ -4,7 +4,7 @@
   "description": "Test Runner for Screener.io Visual Testing service",
   "repository": {
     "type": "git",
-    "url": "https://github.com/screener-io/screener-runner.git"
+    "url": "https://github.com/xwa130saucer/test-publish-gitlab.git"
   },
   "bin": {
     "screener-runner": "./bin/screener-runner.js"
